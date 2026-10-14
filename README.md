@@ -1,4 +1,7 @@
-# clac_huawei
+# Huawei Calculator UI
 
-#Screen Shot
-<img src="https://i.imgur.com/XZp21TP.jpg" width="300">
+A calculator interface project inspired by Huawei's calculator design.
+
+## Screenshot
+
+<img src="https://i.imgur.com/XZp21TP.jpg" width="300" alt="Screenshot of the Huawei-inspired calculator interface" />
